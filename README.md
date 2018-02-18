@@ -14,12 +14,15 @@ List of all the programs I would install if I ever build a new computer with Win
 * [Audacity](https://www.audacityteam.org/): `open source` A audio editor/creator/recorder
 * [Handbrake](https://handbrake.fr/): `lightweight` `open source` Convert video files and reduce them in their size without loosing too much quality + rips DVDs
 * [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui/releases): `lightweight` `open source` Downloads lightning fast videos from websites like YouTube for offline use
+* [Auryo](http://auryo.com/): `beautiful` `streaming` Soundcloud Desktop App
+* [Spotify](https://www.spotify.com/us/): `streaming` stream Millions of Songs for free (with advertising)
 
 ## Pictures
 
 * [IrfanView](http://www.irfanview.com/64bit.htm): `lightweight` A fast picture viewer (of images of all kinds)
 * [Paint.net](https://www.getpaint.net/): `lightweight` A basic image editor/converter
 * [Inkscape](https://inkscape.org/en/release/0.92.2/): `lightweight` `open source` A vector graphics editor (can also convert vector graphics to *normal* images)
+* **[Not free!]** [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) (CC or CS6) (just a recommendation) i know it's expensive, but it is just perfect (in my opinion) and if you have the chance to get it, get it. 
 
 ## Internet Browser
 
@@ -34,12 +37,15 @@ List of all the programs I would install if I ever build a new computer with Win
 - **[Currently free!]** [Typora](https://typora.io/): Markdown editor with many features (live preview, latex math, direct export)
 - [Libre Office](https://www.libreoffice.org/): `open source` Create and edit documents (also can make presentations [slow] and tables)
 - [PDF24 Creator](https://en.pdf24.org/pdf-creator-download.html): `lightweight` A PDF converter/printer
+- [PDFsam Basic](https://pdfsam.org/): `free` `open source` `privacy` merge and splits Pdf Files offline. It also can extract pages from pdf or rotate it, but i have not used this functions yet.
 
 ## Other Tools
 
 * [MiniTool Partition Wizard](https://www.partitionwizard.com/free-partition-manager.html): Manage partitions on storage devices
 * [Etcher](https://etcher.io/): `lightweight` `open source` Burn images to USB sticks/Create Live Discs
 * [Everything](https://www.voidtools.com/): `lightweight` Find any file lightning fast
+* [VeraCrypt](https://sourceforge.net/projects/veracrypt/): `open source` `privacy` Encrypts Containers/Drives
+* [Format Factory](https://format-factory.en.softonic.com/): multifunctional converter software (converts almost everthing to everything)
 
 ## Programming
 
