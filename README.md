@@ -2,8 +2,6 @@
 
 List of all the programs I would install if I ever build a new computer with Windows, reset my existing Windows computer or if somebody asks me with which program he should do x on Windows. (Many programs on this list are cross platform - this means there is a high chance even as a Linux user you could find here a good program - in future updates I will probably add a tag if this is the case)
 
-<br>
-
 ---
 
 Supported tags (always in this order):
@@ -12,6 +10,8 @@ Supported tags (always in this order):
 * `open source` - The code of the software is hosted online and can be viewed by anyone which means if there are any backdoors/bugs/privacy issues anyone can falg or discover them
 * `linux` / `linux+mac` / `mac` - The same software is also aviable on the named desktop plattforms
 * `64bit` - The program supports more than 4GB of RAM and can be better for professional or heavy use
+
+---
 
 <br>
 
