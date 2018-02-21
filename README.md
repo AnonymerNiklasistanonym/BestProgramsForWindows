@@ -8,7 +8,7 @@ Supported tags (always in this order):
 
 * `lightweight` - The program is *small* which not only means that the installer is small but also that the installed program is not unnecessary big and very fast if executed
 * `open source` - The code of the software is hosted online and can be viewed by anyone which means if there are any backdoors/bugs/privacy issues anyone can falg or discover them
-* `linux` / `linux+mac` / `mac` - The same software is also aviable on the named desktop plattforms
+* `linux` / `linux+mac` / `mac` - The same software is also avaible on the named desktop plattforms
 * `64bit` - The program supports more than 4GB of RAM and can be better for professional or heavy use
 
 ---
