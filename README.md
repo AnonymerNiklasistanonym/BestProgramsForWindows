@@ -34,7 +34,7 @@ Supported tags (always in this order):
 - [IrfanView](http://www.irfanview.com/64bit.htm): `lightweight` `64bit`<br>A fast picture viewer (of images of all kinds)
 - [Paint.net](https://www.getpaint.net/): `lightweight`<br>A basic image editor/converter
 - [Inkscape](https://inkscape.org/en/release/0.92.2/): `lightweight` `open source` `linux+mac` `64bit`<br>A vector graphics editor (can also convert vector graphics to *normal* images)
-- **[Not free!]** [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)<br>Expensive, but perfect to professinally mainpulate/create images/graphics
+- **[Not free!]** [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)<br>Expensive, but perfect to professinally manipulate/create images/graphics
 
 ## Internet Browser
 
