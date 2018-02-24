@@ -15,7 +15,7 @@ Supported tags (always in this order):
 
 ## Audio & Video
 
-- [MPV](https://mpv.io/installation/): `lightweight` `open source` `linux+mac`<br>A fast and lightweight video player for any file (can also play audio files)
+- [MPV](https://mpv.io/installation/): `lightweight` `open source` `linux+mac` `64bit`<br>A fast and lightweight video player for any file (can also play audio files)
 - [VLC](https://www.videolan.org/vlc/index.html): `lightweight` `open source` `linux+mac` `64bit`<br>A fast and feature rich video and audio player for any file and CD's, DVDs + [not locked] Blu-Rays
 - [foobar2000](https://www.foobar2000.org/download): `lightweight` `open source`<br>A fast and lightweight audio library manager and player of any audio files
 - [Mp3Tag](https://www.mp3tag.de/en/): `lightweight`<br>Edits one or many audio files (MP3s, artist, cover, ....)
