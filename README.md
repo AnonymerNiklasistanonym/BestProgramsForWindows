@@ -6,49 +6,40 @@ List of all the programs I would install if I ever build a new computer with Win
 
 Supported tags (always in this order):
 
-* `lightweight` - The program is *small* which not only means that the installer is small but also that the installed program is not unnecessary big and very fast if executed
-* `open source` - The code of the software is hosted online and can be viewed by anyone which means if there are any backdoors/bugs/privacy issues anyone can falg or discover them
-* `linux` / `linux+mac` / `mac` - The same software is also aviable on the named desktop plattforms
-* `64bit` - The program supports more than 4GB of RAM and can be better for professional or heavy use
+- `lightweight` - The program is *small* which not only means that the installer is small but also that the installed program is not unnecessary big and very fast if executed
+- `open source` - The code of the software is hosted online and can be viewed by anyone which means if there are any back doors/bugs/privacy issues anyone can flag or discover them
+- `linux` / `linux+mac` / `mac` - The same software is also available on the named desktop platforms
+- `64bit` - The program supports more than 4GB of RAM and can be better for professional or heavy use
 
 ---
 
-<br>
-
 ## Audio & Video
 
-* [MPV](https://mpv.io/installation/): `lightweight` `open source` `linux+mac`<br>A fast and lightweight video player for any file (can also play audio files)
-
-* [VLC](https://www.videolan.org/vlc/index.html): `lightweight` `open source` `linux+mac` `64bit`<br>A fast and feature rich video and audio player for any file and CD's, DVDs + [not locked] Blu-Rays
-
-* [foobar2000](https://www.foobar2000.org/download): `lightweight` `open source`<br>A fast and lightweight audio library manager and player of any audio files
-
-* [Mp3Tag](https://www.mp3tag.de/en/): `lightweight`<br>Edits one or many audio files (MP3s, artist, cover, ....)
-
-* [mp3DirectCut](http://mpesch3.de1.cc/mp3dc.html): `lightweight`<br>Edit a MP3/AAC audio file
-
-* [Audacity](https://www.audacityteam.org/): `open source` `linux+mac`<br>A audio editor/creator/recorder
-
-* [Handbrake](https://handbrake.fr/): `lightweight` `open source` `linux+mac` `64bit`<br>Convert video files and reduce them in their size without loosing too much quality + rips CDs, DVDs + [not locked] Blu-Rays
-
-* [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui/releases): `lightweight` `open source`<br>Downloads lightning fast videos from websites like YouTube for offline use
+- [MPV](https://mpv.io/installation/): `lightweight` `open source` `linux+mac` `64bit`<br>A fast and lightweight video player for any file (can also play audio files)
+- [VLC](https://www.videolan.org/vlc/index.html): `lightweight` `open source` `linux+mac` `64bit`<br>A fast and feature rich video and audio player for any file and CD's, DVDs + [not locked] Blu-Rays
+- [foobar2000](https://www.foobar2000.org/download): `lightweight` `open source`<br>A fast and lightweight audio library manager and player of any audio files
+- [Mp3Tag](https://www.mp3tag.de/en/): `lightweight`<br>Edits one or many audio files (MP3s, artist, cover, ....)
+- [mp3DirectCut](http://mpesch3.de1.cc/mp3dc.html): `lightweight`<br>Edit a MP3/AAC audio file
+- [Audacity](https://www.audacityteam.org/): `open source` `linux+mac`<br>A audio editor/creator/recorder
+- [Handbrake](https://handbrake.fr/): `lightweight` `open source` `linux+mac` `64bit`<br>Convert video files and reduce them in their size without loosing too much quality + rips CDs, DVDs + [not locked] Blu-Rays
+- [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui/releases): `lightweight` `open source`<br>Downloads lightning fast videos from websites like YouTube for offline use
 
 ## Streaming
 
-* [auryo](http://auryo.com/): `linux+mac`<br>Unofficial Soundcloud audio streaming app
-* [Spotify](https://www.spotify.com/us/): `linux+mac`<br>Spotify audio streaming app (free with advertising)
+- [auryo](http://auryo.com/): `linux+mac`<br>Unofficial Soundcloud audio streaming app
+- [Spotify](https://www.spotify.com/us/): `linux+mac`<br>Spotify audio streaming app (free with advertising)
 
 ## Pictures
 
-* [IrfanView](http://www.irfanview.com/64bit.htm): `lightweight` `64bit`<br>A fast picture viewer (of images of all kinds)
-* [Paint.net](https://www.getpaint.net/): `lightweight`<br>A basic image editor/converter
-* [Inkscape](https://inkscape.org/en/release/0.92.2/): `lightweight` `open source` `linux+mac` `64bit`<br>A vector graphics editor (can also convert vector graphics to *normal* images)
-* **[Not free!]** [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)<br>Expensive, but perfect to professinally mainpulate/create images/graphics
+- [IrfanView](http://www.irfanview.com/64bit.htm): `lightweight` `64bit`<br>A fast picture viewer (of images of all kinds)
+- [Paint.net](https://www.getpaint.net/): `lightweight`<br>A basic image editor/converter
+- [Inkscape](https://inkscape.org/en/release/0.92.2/): `lightweight` `open source` `linux+mac` `64bit`<br>A vector graphics editor (can also convert vector graphics to *normal* images)
+- **[Not free!]** [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)<br>Expensive, but perfect to professionally manipulate/create images/graphics
 
 ## Internet Browser
 
-* [Google Chrome](https://www.google.com/chrome/): `linux+mac` `64bit`<br>Browse the web (+ developer features)
-* [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/): `open source` `linux` `64bit`<br>Browse the web with a bit more privacy (+ developer features)
+- [Google Chrome](https://www.google.com/chrome/): `linux+mac` `64bit`<br>Browse the web (+ developer features)
+- [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/): `open source` `linux` `64bit`<br>Browse the web with a bit more privacy (+ developer features)
 
 ## Office/Documents
 
@@ -63,11 +54,12 @@ Supported tags (always in this order):
 
 ## Other Tools
 
-* [MiniTool Partition Wizard](https://www.partitionwizard.com/free-partition-manager.html):<br>Manage partitions on storage devices
-* [Etcher](https://etcher.io/): `lightweight` `open source` `linux+mac` `64bit`<br>Burn images to USB sticks/Create Live Discs
-* [Everything](https://www.voidtools.com/): `lightweight` `64bit`<br>Find any file lightning fast
-* [VeraCrypt](https://www.veracrypt.fr/en/Downloads.html): `open source` `linux+mac` `64bit`<br>Encrypts containers/drives
-* [Format Factory](http://www.pcfreetime.com/formatfactory/index.php?language=en):<br>Multi functional converter software (converts almost every multimedia file to everything)
+- [MiniTool Partition Wizard](https://www.partitionwizard.com/free-partition-manager.html):<br>Manage partitions on storage devices
+- [Etcher](https://etcher.io/): `lightweight` `open source` `linux+mac` `64bit`<br>Burn images to USB sticks/Create Live Discs
+- [Everything](https://www.voidtools.com/): `lightweight` `64bit`<br>Find any file lightning fast
+- [OBS Studio](https://obsproject.com/download): `open source` `linux+mac` `64bit`<br>Stream or record your screen (as a video) or only some of the windows with the Open Broadcaster Software Studio (streams seamless to twitch/YouTube/...)
+- [VeraCrypt](https://www.veracrypt.fr/en/Downloads.html): `open source` `linux+mac` `64bit`<br>Encrypts containers/drives
+- [Format Factory](http://www.pcfreetime.com/formatfactory/index.php?language=en):<br>Multi functional converter software (converts almost every multimedia file to everything)
 
 ## Programming
 
@@ -79,6 +71,6 @@ Supported tags (always in this order):
 - [FileZilla](https://filezilla-project.org/): `lightweight` `open source` `linux+mac` `64bit`<br>Connect your computer to a SFTP/FTP server
 - [Git/GitBash](Git/GitBash): `lightweight` `open source` `linux+mac` `64bit`<br>Source code version control on a new level
 - [GitHubDesktop](https://desktop.github.com/): `open source` `mac` `64bit`<br>Git Github client (simple)
-- [Android Studio](https://developer.android.com/studio/index.html): `open source`  `linux+mac` `64bit`<br>Creating/editing/testing/exporting Android projects
+- [Android Studio](https://developer.android.com/studio/index.html): `open source` `linux+mac` `64bit`<br>Creating/editing/testing/exporting Android projects
 - [Notepad++](https://notepad-plus-plus.org/): `lightweight` `open source` `64bit`<br>Text editor with fast find, replace, syntax highlighting options
 - [SQLite Studio:](https://sqlitestudio.pl/index.rvt) `lightweight`<br>A portable SQLite database editor/creator with a console
