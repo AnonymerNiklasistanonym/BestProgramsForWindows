@@ -58,6 +58,7 @@ Supported tags (always in this order):
 - [Etcher](https://etcher.io/): `lightweight` `open source` `linux+mac` `64bit`<br>Burn images to USB sticks/Create Live Discs
 - [Everything](https://www.voidtools.com/): `lightweight` `64bit`<br>Find any file lightning fast
 - [OBS Studio](https://obsproject.com/download): `open source` `linux+mac` `64bit`<br>Stream or record your screen (as a video) or only some of the windows with the Open Broadcaster Software Studio (streams seamless to twitch/YouTube/...)
+- [Space Snniffer](http://www.uderzo.it/main_products/space_sniffer/) `lightweight`<br>Displays all your storage in a clear treemap which is clickable and has a filter so that you can after one intial scan and after that a live surveillance while open find files (that are for example the reason for low storage)
 - [VeraCrypt](https://www.veracrypt.fr/en/Downloads.html): `open source` `linux+mac` `64bit`<br>Encrypts containers/drives
 - [Format Factory](http://www.pcfreetime.com/formatfactory/index.php?language=en):<br>Multi functional converter software (converts almost every multimedia file to everything)
 
