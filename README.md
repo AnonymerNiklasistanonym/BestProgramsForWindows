@@ -62,14 +62,9 @@ Supported tags (always in this order):
 - [Microsoft Garage Mouse without Borders](https://www.microsoft.com/en-us/download/details.aspx?id=35460): `~2MB`<br>Software from Microsoft to use the same Mouse/Keyboard on more than one Windows computer
 - [MiniTool Partition Wizard](https://www.partitionwizard.com/free-partition-manager.html): `~100MB`<br>Manage partitions on storage devices
 - [OBS Studio](https://obsproject.com/download): `open source` `linux+mac` `64bit`<br>Stream or record your screen (as a video) or only some of the windows with the Open Broadcaster Software Studio (streams seamless to twitch/YouTube/...)
+- [RegexRenamer](http://regexrenamer.sourceforge.net/): `~2MB`<br>Rename on Windows many files at once thanks to regular expressions
 - [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/): `~5MB`<br>Displays all your storage in a clear tree map which is clickable and has a filter so that you can after one initial scan and after that a live surveillance while open find files (that are for example the reason for low storage)
 - [VeraCrypt](https://www.veracrypt.fr/en/Downloads.html): `open source` `linux+mac` `64bit`<br>Encrypts containers/drives
-<<<<<<< HEAD
-- [Format Factory](http://www.pcfreetime.com/formatfactory/index.php?language=en):<br>Multi functional converter software (converts almost every multimedia file to everything)
-- [Microsoft Garage Mouse without Borders](https://www.microsoft.com/en-us/download/details.aspx?id=35460): `~2MB`<br>Software from Microsoft to use the same Mouse/Keyboard on more than one Windows computer
-- [RegexRenamer](http://regexrenamer.sourceforge.net/): `~2MB`<br>Rename on Windows many files at once thanks to regular expressions
-=======
->>>>>>> 5705d013879d9e1f5f59dfa9d76ce53179e6e866
 
 ## Programming
 
