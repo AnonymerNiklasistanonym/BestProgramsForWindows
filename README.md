@@ -64,6 +64,7 @@ Supported tags (always in this order):
 - [VeraCrypt](https://www.veracrypt.fr/en/Downloads.html): `open source` `linux+mac` `64bit`<br>Encrypts containers/drives
 - [Format Factory](http://www.pcfreetime.com/formatfactory/index.php?language=en):<br>Multi functional converter software (converts almost every multimedia file to everything)
 - [Microsoft Garage Mouse without Borders](https://www.microsoft.com/en-us/download/details.aspx?id=35460): `~2MB`<br>Software from Microsoft to use the same Mouse/Keyboard on more than one Windows computer
+- [RegexRenamer](http://regexrenamer.sourceforge.net/): `~2MB`<br>Rename on Windows many files at once thanks to regular expressions
 
 ## Programming
 
