@@ -48,8 +48,8 @@ Supported tags (always in this order):
 - [Libre Office](https://www.libreoffice.org/): `open source` `linux+mac` `64bit` `~640MB`<br>Create and edit documents (also can make presentations [slow] and tables)
 - [Notepad++](https://notepad-plus-plus.org/): `open source` `64bit` `~15MB`<br>Fast text editor with fast find, replace, syntax highlighting options
 - [PDF24 Creator](https://en.pdf24.org/pdf-creator-download.html): `~55MB`<br>A PDF converter/printer
-- [PDFsam Basic (+ Enhanced 4)](https://pdfsam.org/): `open source` `linux+mac` `~450MB`<br>Merge/Split/Edit PDF files + extracts pages or rotate them
 - [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html): `64bit` `~15MB`<br>A fast PDF reader/searcher (only reads/presents files - with one click opens them in other PDF readers)
+- [TeXstudio](https://texstudio.org/): `open source` `linux+mac` `64bit` `~120MB`<br>LaTeX text editor with many features (side-by-side editing, internal export, math preview) - [MiKeTex](https://miktex.org/download) is required (through the dynamic adding of packages this can get really big, currently I have 10GB reserved for this program)
 - **[Currently free while in beta]** [Typora](https://typora.io/): `linux+mac` `64bit` `~160MB`<br>Markdown editor with many features (live preview, latex math, direct export)
 - **[Not free!]** [Microsoft Office Excel, PowerPoint and Word](https://products.office.com/en-us/?WT.mc_id=OAN_en-us_MSCOM-Footer-ProductSite-Office): `64bit` `~1GB`<br>(create tables, presentations and documents)
 
@@ -59,8 +59,10 @@ Supported tags (always in this order):
 - [Etcher](https://etcher.io/): `open source` `linux+mac` `64bit` `~210MB`<br>Burn images to USB sticks/Create Live Discs
 - [Everything](https://www.voidtools.com/): `64bit`<br>Find any file lightning fast
 - [Format Factory](http://www.pcfreetime.com/formatfactory/index.php?language=en):<br>Multi functional converter software (converts almost every multimedia file to everything)
+- [MediathekView](https://mediathekview.de/): `open source` `linux+mac` `64bit` `~50MB`<br>(Germany) Stream and download content from (ARD, ZDF, Arte, 3Sat, SWR, BR, MDR, NDR, WDR, HR, RBB, ORF, SRF) through this Java program
 - [Microsoft Garage Mouse without Borders](https://www.microsoft.com/en-us/download/details.aspx?id=35460): `~2MB`<br>Software from Microsoft to use the same Mouse/Keyboard on more than one Windows computer
 - [MiniTool Partition Wizard](https://www.partitionwizard.com/free-partition-manager.html): `~100MB`<br>Manage partitions on storage devices
+- [MuseScore](https://musescore.org/): `open source` `linux+mac` `64bit` `~200MB`<br>Write fast and easy music sheets with many features like PDF/SVG/.. export or a preview of your current track through integrated instruments
 - [OBS Studio](https://obsproject.com/download): `open source` `linux+mac` `64bit`<br>Stream or record your screen (as a video) or only some of the windows with the Open Broadcaster Software Studio (streams seamless to twitch/YouTube/...)
 - [RegexRenamer](http://regexrenamer.sourceforge.net/): `~2MB`<br>Rename on Windows many files at once thanks to regular expressions
 - [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/): `~5MB`<br>Displays all your storage in a clear tree map which is clickable and has a filter so that you can after one initial scan and after that a live surveillance while open find files (that are for example the reason for low storage)
@@ -76,7 +78,7 @@ Supported tags (always in this order):
 - [FileZilla](https://filezilla-project.org/): `open source` `linux+mac` `64bit` `~30MB`<br>Connect your computer to a SFTP/FTP server
 - [Git/GitBash](Git/GitBash): `open source` `linux+mac` `64bit` `~215MB`<br>Source code version control on a new level
 - [GitHubDesktop](https://desktop.github.com/): `open source` `mac` `64bit` `~85MB`<br>Git Github client (simple)
-- [MinGW](http://www.mingw.org/): `open source`<br>Get the gcc compiler to compile C, C Objective, Ada, C++, Fortran, ... on Windows + execute shell scripts (use `sh SHELL_FILE`)
+- [MinGW](http://www.mingw.org/): `open source`<br>Get the gcc compiler to compile C, C Objective, Ada, C++, Fortran, ... on Windows + execute shell scripts (use `sh SHELL_FILE`) and many other features that Windows does not provide/you know/want/need from Linux
 - [Notepad++](https://notepad-plus-plus.org/): `open source` `64bit` `~15MB`<br>Text editor with fast find, replace, syntax highlighting options
 - [SQLite Studio](https://sqlitestudio.pl/index.rvt): `~40MB`<br>A portable SQLite database editor/creator with a console
 - [Visual Studio Code Insiders](https://code.visualstudio.com/insiders/): `open source` `linux+mac` `64bit` `~205MB`<br>With extension you have syntax highlighting for nearly any language plus you get a console below the code with which you can directly compile/run it (Python, JavaScript, ...)
