@@ -65,6 +65,7 @@ Supported tags (always in this order):
 - [MuseScore](https://musescore.org/): `open source` `linux+mac` `64bit` `~200MB`<br>Write fast and easy music sheets with many features like PDF/SVG/.. export or a preview of your current track through integrated instruments
 - [OBS Studio](https://obsproject.com/download): `open source` `linux+mac` `64bit`<br>Stream or record your screen (as a video) or only some of the windows with the Open Broadcaster Software Studio (streams seamless to twitch/YouTube/...)
 - [RegexRenamer](http://regexrenamer.sourceforge.net/): `~2MB`<br>Rename on Windows many files at once thanks to regular expressions
+- [scrcpy](https://github.com/Genymobile/scrcpy): `open source` `linux+mac` `64bit`<br>Stream your Android device screen to your desktop in the highest quality and record option
 - [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/): `~5MB`<br>Displays all your storage in a clear tree map which is clickable and has a filter so that you can after one initial scan and after that a live surveillance while open find files (that are for example the reason for low storage)
 - [VeraCrypt](https://www.veracrypt.fr/en/Downloads.html): `open source` `linux+mac` `64bit`<br>Encrypts containers/drives
 
